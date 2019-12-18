@@ -1,0 +1,7 @@
+C:\FMB\Nauka\Projekty\XML\Test01\Test01\bin\Debug\Test01.exe.config
+C:\FMB\Nauka\Projekty\XML\Test01\Test01\bin\Debug\Test01.exe
+C:\FMB\Nauka\Projekty\XML\Test01\Test01\bin\Debug\Test01.pdb
+C:\FMB\Nauka\Projekty\XML\Test01\Test01\obj\Debug\Test01.csprojAssemblyReference.cache
+C:\FMB\Nauka\Projekty\XML\Test01\Test01\obj\Debug\Test01.csproj.CoreCompileInputs.cache
+C:\FMB\Nauka\Projekty\XML\Test01\Test01\obj\Debug\Test01.exe
+C:\FMB\Nauka\Projekty\XML\Test01\Test01\obj\Debug\Test01.pdb
